@@ -1,0 +1,15 @@
+Do not you?
+
+Sometimes in programming, we run into the ‘Don’t you?’ vs ‘Do you not?’ case; and it’s quite hard to defend one way to do it when you look at it this way.
+
+Nobody says “Do not you?” —but if we had some magical counter for how many times we’ve said “Don’t you . . .?”, It would be quite high. 
+
+The thing is, that hidden ugliness of Don’t you can be ignored entirely! We don’t say unless . . . else — we just say if else.
+
+However, we don’t say “you write OCaml, do you not?” when we talk to a new person. We say “Hey! You write OCaml, don’t you?”. Notice the difference? So why shouldn’t we say “unless true” instead of “if not false”?
+
+“Do you not want to go on a walk with me?” and “Don’t you want to go on a walk with me” carry two extremely different meanings. One is scared, nervous, and concerned: do you want to? It’s okay if you don’t — and the other is saying: “Cmon! Let’s go for a walk!”
+
+And guess what? That’s how you use unless; if you are assuming negation/minority/being pessimistic.
+
+Is the glass half full or is it half empty? I don’t know! But what I do know is that unless and don’t you think it’s half empty, and do you not and if see it as half full.
